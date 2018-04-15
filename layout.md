@@ -1,5 +1,4 @@
 abstract.html
-u22fpgh1n3g.tex
 sherr3oku28.html
 figures/mass
 9fe3.html
