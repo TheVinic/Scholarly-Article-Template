@@ -1,5 +1,7 @@
 abstract.html
 sherr3oku28.html
+figures/Lista_de_presenca_turma_Integral1
+97e7as1rp8o.html
 figures/mass
 9fe3.html
 1v6f4le3ng8.md
