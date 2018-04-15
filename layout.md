@@ -6,3 +6,4 @@ figures/mass
 1v6f4le3ng8.md
 hof88smlveo.html
 10bae.html
+figures/Lista_de_presenca_turma_Integral
