@@ -1,6 +1,6 @@
 ```
 int main()
 {
-    printf("ok1")
+    printf("ok1");
 }
 ```
